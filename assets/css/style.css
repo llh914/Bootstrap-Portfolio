@@ -32,6 +32,11 @@ hr {
 	padding: 20px;
 }
 
+.top {
+	padding: 0;
+}
+
+
 .logo {
 	color: white;
 	font-size: 30px;
